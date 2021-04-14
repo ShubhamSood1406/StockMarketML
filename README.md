@@ -22,7 +22,7 @@ Various features of the gathered dataset which is used for Stock Price Predictio
 ## Key Performance Matrix
 For evaluating the efficiency of the proposed models, we applied RMSE (Root Mean Square Error) to measure every applied algorithm's accuracy. The RMSE shows the average squared deviation of the actual value from the predicted value. And it gives information about how well the data is concentrated around the line of best fit. Hence, a good model is
 one whose RMSE value is lower. 
-ܴhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fgisgeography.com%2Froot-mean-square-error-rmse-gis%2F&psig=AOvVaw2F-jpqmThUxLBRfp6W3inD&ust=1618476474737000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiW1fis_e8CFQAAAAAdAAAAABAD
+ܴ<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgisgeography.com%2Froot-mean-square-error-rmse-gis%2F&psig=AOvVaw2F-jpqmThUxLBRfp6W3inD&ust=1618476474737000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiW1fis_e8CFQAAAAAdAAAAABAD" >
 
 where Pi is the predicted value that we got from the model and
 Oi is the actual value from the data and n is the total number of
