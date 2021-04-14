@@ -8,6 +8,7 @@ The accurate prediction of stock prices has a significant role to play in the pr
 
 ## Dataset (GOOG.csv)
 Source https://finance.yahoo.com/quote/GOOG/
+<br>
 Contains the dataset of Google.com's stock market prices listed by Yahoo Finance.
 
 ## Data Overview 
