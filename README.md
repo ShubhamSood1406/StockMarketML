@@ -46,7 +46,7 @@ This contains the poster that we made for presentng our project.
 
 #### Contribution 
 - <a href="https://github.com/VaibhavGaur05"> Vaibhav Gaur </a>gathered the dataset of Google’s Stock prices from Yahoo! Finance and preprocessed it so that unnecessary data can be cleaned and then implemented the Linear Regression on the data and concluded that it predicted the stock prices more accurately.
-- Shubham Sood did the data visualization and comparison graphs to see the pattern and trends in the data; after that, computation of training time needed for each algorithm is carried out, and the LSTM & k-nn algorithm is applied to the data.
+- <a href="https://github.com/shubhamsood1406"> Shubham Sood </a> did the data visualization and comparison graphs to see the pattern and trends in the data; after that, computation of training time needed for each algorithm is carried out, and the LSTM & k-nn algorithm is applied to the data.
 - <a href="https://github.com/lishauppal3105"> Lisha Uppal </a> did the literature survey about the project so that we can get the knowledge about our project and we can explore about it then she applied Decision Tree algorithm and observed that it had the fastest execution time but takes the maximum time in training of the dataset moreover she made the proposal and report of the project.
 
 
