@@ -1,5 +1,7 @@
 # StockMarketML
 
+Paper was presented in INDICON 2020 and is published in IEEE Xplore.
+Link to the published paper: https://ieeexplore.ieee.org/document/9342571 
 
 
 ### This was one of our Machine Learning projects that was implemented in a team of 3 with equal contribution.
